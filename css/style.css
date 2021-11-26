@@ -1,0 +1,71 @@
+* {
+    box-sizing:border-box;
+   
+
+}
+body {
+    background-color: gray;
+}
+.box-grand {
+display: inline-block;
+position: absolute;
+border: solid 1px;
+border-color: white;
+background-color:white;
+width: 1200px;
+height: 675px;
+left: 50%;
+top: 50%;
+margin-left: -600px;
+margin-top: -260px;
+}
+
+.img{
+padding: 150px 681px 150px 143px;
+float: left; 
+}
+h1{
+display: block;  
+position: absolute;
+padding: 180px 388px 473px 618px;
+font-family: Arial;
+font-size: 22.5px;
+line-height: 1.2;
+font-weight: 700;
+color: #2f2f2f;
+}
+.text{
+position:absolute;
+padding: 232px 188px 393px 619px;
+font-family: Arial;
+font-size: 15px;
+line-height: 1.2;
+font-weight: 400;
+color: #2f2f2f;
+}
+.cost{
+position: absolute;
+padding: 337px 546px 324px 619px; 
+font-family: Arial;
+font-size: 15px;
+line-height: 1.2;
+font-weight: 400;
+color: #2f2f2f;
+}
+h2{
+position: absolute;
+padding: 374px 476px 273px 618px; 
+font-family: Arial;
+font-size: 30px;
+line-height: 1.2;
+font-weight: 400;
+color: #2f2f2f; 
+}
+button{
+position: absolute; 
+display:block;
+width: 252px;
+height: 50px;
+background-color: #ec744a;
+margin: 457px 327px 167px 620px;
+}
